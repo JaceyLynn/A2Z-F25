@@ -77,6 +77,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name - [title](url)
 - Fiona - [Fiona's W3 Assignment JSON about art](https://www.notion.so/Fiona-s-Assignment-3-APIs-and-Libraries-275701873e07802dbabbecd83450831e?source=copy_link)
 
+- Junqi - [Eviction Data Visualization](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
